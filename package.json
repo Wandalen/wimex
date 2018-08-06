@@ -1,6 +1,7 @@
 {
   "name": "wimex",
   "version": "0.3.3",
+  "enabled": 0,
   "description": "Modules composer / decomposer",
   "author": "Kostiantyn Wandalen <wanalen@willbe.so>",
   "license": "MIT",
